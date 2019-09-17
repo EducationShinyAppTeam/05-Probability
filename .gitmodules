@@ -1,6 +1,6 @@
 [submodule "Matching_Distributions"]
 	path = Matching_Distributions
-	url = https://github.com/EducationShinyAppTeam/Matching_Distributions
+	url = ../Matching_Distributions
 [submodule "Bayes_Theorem"]
 	path = Bayes_Theorem
-	url = https://github.com/EducationShinyAppTeam/Bayes_Theorem
+	url = ../Bayes_Theorem
