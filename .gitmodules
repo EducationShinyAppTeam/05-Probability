@@ -4,6 +4,6 @@
 [submodule "Bayes_Theorem"]
 	path = Bayes_Theorem
 	url = ../Bayes_Theorem
-[submodule "Probability_Application"]
-	path = Probability_Application
-	url = ../Probability_Application
+[submodule "Probability_Applications"]
+	path = Probability_Applications
+	url = ../Probability_Applications
